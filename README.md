@@ -1,4 +1,4 @@
-# Enhanced Stock Recommender System
+# Stock Recommender System
 
 This project implements a content-based stock recommendation system with portfolio analysis and diversification recommendations, designed to provide personalized stock recommendations with simple, jargon-free explanations.
 
